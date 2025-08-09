@@ -2,7 +2,7 @@
 
   💻 Software Engineer | Full Stack Java Developer.  
   🚀 Passionate about solving problems and building scalable applications.  
-  🔧 Love building robust, efficient software solutions.
+  🔧 Love building robust, efficient software solutions.  
   🧠 AI/ML enthusiast always eager to explore new technologies.  
   
 

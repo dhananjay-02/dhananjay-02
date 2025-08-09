@@ -1,8 +1,9 @@
 # 💫 About Me:
-💻 Software Engineer | Full Stack Java Developer.
-🚀 Passionate about solving problems and building scalable applications.
-🧠 AI/ML enthusiast always eager to explore new technologies.
-🔧 Love building robust, efficient software solutions.
+
+  💻 Software Engineer | Full Stack Java Developer.
+  🚀 Passionate about solving problems and building scalable applications.  
+  🧠 AI/ML enthusiast always eager to explore new technologies.  
+  🔧 Love building robust, efficient software solutions.
 
 
 ## 🌐 Socials:

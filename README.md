@@ -1,5 +1,13 @@
 # 💫 About Me:
-                                        Hello, I'm Dhananjay Chougule<br><br>Full Stack Java developer.<br><br>I am a dedicated software engineer with expertise in full-stack development, specializing in Java applications and modern web technologies.<br>I enjoy solving complex problems and building software solutions. Always eager to explore new technologies and learn continuously.<br><br>🔭 Currently developing an AI-powered Resume Analyzer application<br>📚 Brushing up on Data Structures & Algorithms concepts.<br>🧠 Learning and expanding knowledge in AI/ML.
+  Hello, I'm Dhananjay Chougule<br><br>Full Stack Java developer.
+  
+I am a dedicated software engineer with expertise in full-stack development, specializing in Java applications and modern web technologies.<br>I enjoy solving complex problems and building software solutions. Always eager to explore new technologies and learn continuously.
+
+🔭 Passinate for building robust software solutions.
+
+📚 Brushing up on Data Structures & Algorithms concepts.
+
+🧠 Learning and expanding knowledge in AI/ML.
 
 
 ## 🌐 Socials:
